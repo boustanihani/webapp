@@ -1,7 +1,7 @@
 if (Meteor.isClient) {
 
-  Template.registerHelper('isOnline', function() {
+    Template.registerHelper('isOnline', function() {
 
-    return Meteor.status().connected;
-  });
+        return Meteor.status().connected;
+    });
 }
