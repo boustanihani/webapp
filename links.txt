@@ -1,0 +1,8 @@
+https://github.com/meteor/meteor/wiki/Meteor-Cordova-Phonegap-integration
+
+https://github.com/meteor/meteor/wiki/Mobile-Dev-Install:-Android-on-Linux
+
+meteor install-sdk android
+
+meteor add-platform android
+
